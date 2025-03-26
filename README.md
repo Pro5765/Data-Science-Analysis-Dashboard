@@ -13,24 +13,9 @@ A comprehensive analytics dashboard for e-commerce delivery performance monitori
 
 ### Analytics Dashboard
 - **Real-time Metrics Visualization**
-  - Platform-wise performance tracking
-  - Delivery time analysis
-  - Order value distribution
-  - Service rating insights
 
 ### Performance Monitoring
 - **Platform Analytics**
-  - Average delivery times
-  - Order value metrics
-  - Customer satisfaction scores
-  - Platform comparison tools
-
-### Report Generation
-- **Multi-format Export**
-  - PDF reports with visualizations
-  - Word documents with detailed analysis
-  - Interactive charts and tables
-  - Automated data summaries
 
 ### Data Analysis
 - **Advanced Analytics**
@@ -121,42 +106,17 @@ ecommerce_analytics/
   - Statistical graphs
   - Custom charts
 
-### Report Generation
-- **Kaleido** (v0.2.1)
-  - High-quality image export
-  - Static visualization rendering
-
-- **python-docx** (v1.0.1)
-  - Word document generation
-  - Custom formatting
-  - Table management
-
-- **ReportLab** (v4.0.8)
-  - PDF report generation
-  - Professional layouts
-  - Custom styling
-
 ## 📈 Features in Detail
 
 ### Dashboard Components
 
-#### 1. Performance Metrics
-- Order processing times
-- Delivery efficiency
-- Platform comparison
-- Service quality metrics
+#### 1. Use any CSV file to view its data visualisation and details
 
 #### 2. Data Visualization
 - Time series analysis
 - Distribution plots
 - Correlation matrices
 - Category-wise breakdowns
-
-#### 3. Report Generation
-- Executive summaries
-- Detailed analysis reports
-- Custom visualization export
-- Automated insights
 
 ## 🛠️ Configuration
 
@@ -167,29 +127,15 @@ PORT = 8050             # Dashboard port number
 ```
 
 ### Data Source
-The dashboard expects delivery data in CSV format with the following columns:
-- Order ID
-- Platform
-- Delivery Time (Minutes)
-- Order Value (INR)
-- Product Category
-- Service Rating
+Displays information from the csv as provided by the user.
 
 ## 📝 Usage Guidelines
 
 ### 1. Dashboard Navigation
 - Use the top navigation bar for main sections
 - Apply filters using the sidebar controls
-- Export data using the download buttons
-- Generate reports via the report menu
 
-### 2. Report Generation
-- Select report type (PDF/Word)
-- Choose included metrics
-- Add custom visualizations
-- Export to desired format
-
-### 3. Data Analysis
+### 2. Data Analysis
 - Apply custom filters
 - Sort by different metrics
 - Compare platforms
