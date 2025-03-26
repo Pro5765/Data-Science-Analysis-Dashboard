@@ -69,7 +69,7 @@ ecommerce_analytics/
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd ecommerce_analytics
+   cd <folder name>
    ```
 
 2. **Set Up Environment**
