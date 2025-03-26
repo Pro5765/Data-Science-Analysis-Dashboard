@@ -45,8 +45,6 @@ A comprehensive analytics dashboard for e-commerce delivery performance monitori
 ```
 ecommerce_analytics/
 │
-├── data/                      # Data storage
-│   └── delivery_data.csv     # E-commerce delivery dataset
 │
 ├── src/                      # Source code
 │   ├── dashboard/           # Dashboard components
