@@ -214,7 +214,7 @@ The dashboard expects delivery data in CSV format with the following columns:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Pro5765/Data-Science-Analysis-Dashboard/tree/main?tab=MIT-1-ov-file) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Pro5765/Data-Science-Analysis-Dashboard/blob/main/LICENSE) file for details.
 
 ## 👩‍💻 Author
 
